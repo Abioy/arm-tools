@@ -24,7 +24,7 @@ url-resolve <BASE> <REF>
 Resolves a URI reference to an absolute URI from an absolute base URI.
 
 ## Arguments:
-`<BASE>`   : absolute base URI.
+`<BASE>`   : absolute base URI.<br />
 `<REF>`    : URI reference.
 
 ## Examples:
